@@ -18,12 +18,12 @@ The purpose of the Incident Report Analysis project was to investigate and respo
 
 ## Steps and Screenshots
 
-Ref 1: Incident Summary
+Ref 1: Incident Summary - 
 The incident involved a malicious phishing attempt that compromised an intern's network credentials. Logs indicated unauthorized access to the customer database, with data being manipulated or deleted. A thorough investigation followed to understand the scope of the breach and implement corrective measures.
 
 ![3-Analyzing Network Structure   Security-1](https://github.com/user-attachments/assets/ded08eda-9055-4fe9-85e5-18af5470c889)
 
-Ref 2: Incident Management Response
+Ref 2: Incident Management Response - 
 In this screenshot, the response team identified the source of the breach and the method used to gain access. Security policies were revised, and MFA was implemented to strengthen account security. Additionally, data recovery procedures were initiated using the last night's backup to restore compromised customer information.
 
 ![3-Analyzing Network Structure   Security-2](https://github.com/user-attachments/assets/63a8c449-06a5-4793-9ff6-9e06331637fc)
